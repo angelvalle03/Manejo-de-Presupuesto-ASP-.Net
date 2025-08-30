@@ -1,0 +1,30 @@
+﻿
+@model TipoCuenta
+
+@{
+    ViewData["Title"] = "Crear Tipo Cuenta";
+}
+
+<h1>Crear Tipo de Cuenta</h1>
+<h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</h5>
+
+@* <div asp-validation-summary="All" class="text-danger"></div> @* errores de validacion de los campos del formulario *@ 
+
+<form  asp-action="Crear">
+
+    <div class="mb-3">
+        <label asp-for="Nombre" for="Nombre" class="form-label"></label>
+        <input asp-for="Nombre" class="form-control"/>
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+
+    
+
+    <button type="submit" class="btn btn-primary">Enviar</button>
+    <a class="btn btn-secondary" asp-action="Index">Cancelar</a>
+
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" /> @* permite hacer todas las validaciones del formulario antes de pasar al controlador *@
+}
