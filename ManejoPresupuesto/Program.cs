@@ -1,4 +1,6 @@
 using ManejoPresupuesto.Services;
+using AutoMapper;
+using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,6 +9,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddTransient<IRepostiroyTiposCuentas, RepositoryTiposCuentas>();
 builder.Services.AddTransient<IServicioUsuario, ServicioUsuarios>();
 builder.Services.AddTransient<IRepositoryCuentas, RepositoryCuentas>();
+builder.Services.AddAutoMapper(typeof(Program));
 
 var app = builder.Build();
 

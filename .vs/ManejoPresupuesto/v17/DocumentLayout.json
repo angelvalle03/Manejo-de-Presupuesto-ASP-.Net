@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\views\\cuenta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\cuenta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\controllers\\cuentacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\models\\indicecuentasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\indicecuentasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\views\\cuenta\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\cuenta\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\services\\repositorycuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\services\\repositorycuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\manejopresupuesto.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\services\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\services\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\controllers\\tiposcuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\controllers\\tiposcuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\models\\cuentacreacionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\cuentacreacionviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,21 +38,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 370,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-30T01:40:58.37Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -69,35 +48,73 @@
               "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Cuenta\\Index.cshtml",
               "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuenta\\Index.cshtml",
               "RelativeToolTip": "ManejoPresupuesto\\Views\\Cuenta\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAUwFIAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-30T01:37:41.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IndiceCuentasViewModel.cs",
-              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\IndiceCuentasViewModel.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\IndiceCuentasViewModel.cs",
-              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\IndiceCuentasViewModel.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Models\\IndiceCuentasViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T01:28:16.102Z",
+              "WhenOpened": "2025-09-27T02:55:57.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Borrar.cshtml",
+              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuenta\\Borrar.cshtml",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Cuenta\\Borrar.cshtml",
+              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Cuenta\\Borrar.cshtml",
+              "RelativeToolTip": "ManejoPresupuesto\\Views\\Cuenta\\Borrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-27T02:49:47.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryCuentas.cs",
+              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Services\\RepositoryCuentas.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Services\\RepositoryCuentas.cs",
+              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Services\\RepositoryCuentas.cs",
+              "RelativeToolTip": "ManejoPresupuesto\\Services\\RepositoryCuentas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T02:38:44.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManejoPresupuesto",
+              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\ManejoPresupuesto.csproj",
+              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto.csproj",
+              "RelativeToolTip": "ManejoPresupuesto\\ManejoPresupuesto.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-27T02:32:21.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CuentaController.cs",
               "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\CuentaController.cs",
               "RelativeDocumentMoniker": "ManejoPresupuesto\\Controllers\\CuentaController.cs",
               "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\CuentaController.cs",
               "RelativeToolTip": "ManejoPresupuesto\\Controllers\\CuentaController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwLIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T02:22:41.138Z",
+              "WhenOpened": "2025-09-27T02:04:48.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Services\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Services\\AutoMapperProfiles.cs",
+              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Services\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "ManejoPresupuesto\\Services\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T02:01:55.048Z",
               "EditorCaption": ""
             },
             {
@@ -108,61 +125,9 @@
               "RelativeDocumentMoniker": "ManejoPresupuesto\\Program.cs",
               "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Program.cs",
               "RelativeToolTip": "ManejoPresupuesto\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T00:24:44.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RepositoryCuentas.cs",
-              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Services\\RepositoryCuentas.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Services\\RepositoryCuentas.cs",
-              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Services\\RepositoryCuentas.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Services\\RepositoryCuentas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T00:08:49.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Cuenta.cs",
-              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\Cuenta.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\Cuenta.cs",
-              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\Cuenta.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Models\\Cuenta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T01:59:33.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TiposCuentasController.cs",
-              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\TiposCuentasController.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Controllers\\TiposCuentasController.cs",
-              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\TiposCuentasController.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Controllers\\TiposCuentasController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T23:10:48.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CuentaCreacionViewModel.cs",
-              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\CuentaCreacionViewModel.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\CuentaCreacionViewModel.cs",
-              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\CuentaCreacionViewModel.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Models\\CuentaCreacionViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T02:20:47.15Z",
+              "WhenOpened": "2025-09-27T01:55:49.611Z",
               "EditorCaption": ""
             }
           ]

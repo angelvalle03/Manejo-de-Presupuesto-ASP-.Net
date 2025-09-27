@@ -1,0 +1,56 @@
+# Archivos temporales de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# Archivos generados por el compilador
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Archivos de publicación
+publish/
+dist/
+out/
+Generated Files/
+
+# Dependencias descargadas (npm, bower, NuGet local)
+node_modules/
+bower_components/
+packages/
+wwwroot/lib/
+
+# Archivos temporales o de sistema
+*.tmp
+*.bak
+*.swp
+*.sln.ide
+*.userprefs
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Resultados de pruebas
+*.coverage
+*.coveragexml
+TestResult.xml
+TestResults/
+
+# JetBrains Rider / IntelliJ
+.idea/
+*.sln.iml
