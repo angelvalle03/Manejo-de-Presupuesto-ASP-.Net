@@ -43,5 +43,74 @@ namespace ManejoPresupuesto.Controllers
             await repositoryCategorias.Crear(categoria);
             return RedirectToAction("Index");
         }
+    
+        
+        public async Task<IActionResult> Editar(int id)
+        {
+            var usuarioid = servicioUsuario.GetUsuarioId();
+            var categoría = await repositoryCategorias.GetPorId(id, usuarioid);
+
+            if (categoría is null)
+            {
+                return RedirectToAction("NoEncontrado", "Home");
+
+            }
+            return View(categoría);
+
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Editar(Categoria categoriaEditar)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(categoriaEditar);
+            }
+
+            var usuarioid = servicioUsuario.GetUsuarioId();
+            var categoría = await repositoryCategorias.GetPorId(categoriaEditar.Id, usuarioid);
+
+            if (categoría is null)
+            {
+                return RedirectToAction("NoEncontrado", "Home");
+
+            }
+            categoriaEditar.UsuarioId = usuarioid;
+            await repositoryCategorias.Actualizar(categoriaEditar);
+            return RedirectToAction("Index");
+            
+        
+        }
+
+
+        public async Task<IActionResult> Borrar(int id)
+        {
+            var usuarioid = servicioUsuario.GetUsuarioId();
+            var categoría = await repositoryCategorias.GetPorId(id, usuarioid);
+
+            if (categoría is null)
+            {
+                return RedirectToAction("NoEncontrado", "Home");
+
+            }
+            return View(categoría);
+        }
+
+
+        [HttpPost]
+
+        public async Task<IActionResult> BorrarCategoria(int id)
+        {
+            var usuarioid = servicioUsuario.GetUsuarioId();
+            var categoría = await repositoryCategorias.GetPorId(id, usuarioid);
+
+            if (categoría is null)
+            {
+                return RedirectToAction("NoEncontrado", "Home");
+
+            }
+            await repositoryCategorias.Borrar(id);
+            return RedirectToAction("Index");
+        }
     }
 }

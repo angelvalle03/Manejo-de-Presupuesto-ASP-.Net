@@ -6,8 +6,11 @@ namespace ManejoPresupuesto.Services
 {
     public interface IrepositoryCategorias
     {
+        Task Actualizar(Categoria categoria);
+        Task Borrar(int id);
         Task Crear(Categoria categoria);
         Task<IEnumerable<Categoria>> GetCategorias(int usuarioid);
+        Task<Categoria> GetPorId(int id, int usuarioid);
     }
     public class RepositoryCategorias : IrepositoryCategorias
     {
@@ -31,6 +34,26 @@ namespace ManejoPresupuesto.Services
         {
             using var connection = new SqlConnection(connectionString);
             return await connection.QueryAsync<Categoria>("SELECT * FROM Categorias WHERE UsuarioId = @usuarioid", new { usuarioid });
+        }
+
+        public async Task<Categoria> GetPorId(int id, int usuarioid)
+        {
+            using var connection = new SqlConnection(connectionString);
+            return await connection.QueryFirstOrDefaultAsync<Categoria>(@"SELECT * FROM Categorias WHERE Id = @id AND 
+                                                                        UsuarioId = @usuarioid", new { id, usuarioid });
+        }
+
+        public async Task Actualizar(Categoria categoria)
+        {
+            using var connection = new SqlConnection(connectionString);
+            await connection.ExecuteAsync(@"UPDATE Categorias SET Nombre = @Nombre, TipoOperacionId = @TipoOperacionId WHERE Id = @Id", categoria);
+        }
+
+        public async Task Borrar(int id)
+        {
+            using var connection = new SqlConnection(connectionString);
+            await connection.ExecuteAsync(@"DELETE Categorias WHERE Id = @id", new { id });
+
         }
     }
 }

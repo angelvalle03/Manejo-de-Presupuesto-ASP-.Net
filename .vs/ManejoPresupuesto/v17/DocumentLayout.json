@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\views\\categorias\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\categorias\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\views\\categorias\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\categorias\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\views\\categorias\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\categorias\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +19,20 @@
       "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\services\\repositorycategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\models\\tipooperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\tipooperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\views\\categorias\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\views\\categorias\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|d:\\cursos\\curso c# asp.net\\projects\\manejopresupuesto\\manejopresupuesto\\manejopresupuesto\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC95ABC0-9D0F-45FF-952B-99D90B067380}|ManejoPresupuesto\\ManejoPresupuesto.csproj|solutionrelative:manejopresupuesto\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,41 +42,63 @@
       "DocumentGroups": [
         {
           "DockedHeight": 370,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ManejoPresupuesto\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Borrar.cshtml",
+              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Categorias\\Borrar.cshtml",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Categorias\\Borrar.cshtml",
+              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Categorias\\Borrar.cshtml",
+              "RelativeToolTip": "ManejoPresupuesto\\Views\\Categorias\\Borrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-07T00:11:46.813Z",
+              "WhenOpened": "2025-10-07T23:45:47.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Categorias\\Editar.cshtml",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Categorias\\Editar.cshtml",
+              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Categorias\\Editar.cshtml",
+              "RelativeToolTip": "ManejoPresupuesto\\Views\\Categorias\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T23:31:21.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "RepositoryCategorias.cs",
               "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Services\\RepositoryCategorias.cs",
               "RelativeDocumentMoniker": "ManejoPresupuesto\\Services\\RepositoryCategorias.cs",
               "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Services\\RepositoryCategorias.cs",
               "RelativeToolTip": "ManejoPresupuesto\\Services\\RepositoryCategorias.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T23:41:44.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "ManejoPresupuesto\\Controllers\\CategoriasController.cs",
+              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "ManejoPresupuesto\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwGUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T17:37:54.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "TipoOperacion.cs",
               "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\TipoOperacion.cs",
               "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\TipoOperacion.cs",
@@ -85,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Categoria.cs",
               "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "ManejoPresupuesto\\Models\\Categoria.cs",
@@ -93,46 +119,32 @@
               "RelativeToolTip": "ManejoPresupuesto\\Models\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T23:12:33.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T23:12:33.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Crear.cshtml",
               "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Categorias\\Crear.cshtml",
               "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Categorias\\Crear.cshtml",
               "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Categorias\\Crear.cshtml",
               "RelativeToolTip": "ManejoPresupuesto\\Views\\Categorias\\Crear.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-04T17:55:21.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Categorias\\Index.cshtml",
               "RelativeDocumentMoniker": "ManejoPresupuesto\\Views\\Categorias\\Index.cshtml",
               "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Views\\Categorias\\Index.cshtml",
               "RelativeToolTip": "ManejoPresupuesto\\Views\\Categorias\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-04T17:54:56.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoriasController.cs",
-              "DocumentMoniker": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\CategoriasController.cs",
-              "RelativeDocumentMoniker": "ManejoPresupuesto\\Controllers\\CategoriasController.cs",
-              "ToolTip": "D:\\Cursos\\Curso c# ASP.Net\\Projects\\ManejoPresupuesto\\ManejoPresupuesto\\ManejoPresupuesto\\Controllers\\CategoriasController.cs",
-              "RelativeToolTip": "ManejoPresupuesto\\Controllers\\CategoriasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T17:37:54.823Z",
               "EditorCaption": ""
             }
           ]
